@@ -1,6 +1,6 @@
 {
   "name": "homebridge-zwave",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A Homebridge plugin for ZWave devices",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "standard": "^14.2.0"
   },
   "dependencies": {
-    "@hapi/joi": "^17.0.2",
+    "@hapi/joi": "^15.1.1",
     "openzwave-shared": "^1.5.6"
   }
 }
